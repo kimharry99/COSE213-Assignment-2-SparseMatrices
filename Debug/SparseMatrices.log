@@ -1,4 +1,1 @@
-﻿  main.c
-C:\dev\SparseMatrices\SparseMatrices\main.c(37): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
-C:\dev\SparseMatrices\SparseMatrices\main.c(45): warning C4101: '_SMatrixNode' :참조되지 않은 지역 변수입니다.
-  SparseMatrices.vcxproj -> C:\dev\SparseMatrices\SparseMatrices\Debug\SparseMatrices.exe
+﻿  SparseMatrices.vcxproj -> C:\dev\SparseMatrices\SparseMatrices\Debug\SparseMatrices.exe
